@@ -2192,7 +2192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dunwu/nginx-tutorial</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。</div>
@@ -2245,7 +2245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wuyouzhuguli/SpringAll</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">循序渐进，学习Spring Boot、Spring Boot &amp; Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security &amp; Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc</div>
@@ -2439,7 +2439,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2022, 09:13:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Nov 2022, 11:20:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
