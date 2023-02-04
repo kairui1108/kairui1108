@@ -1845,7 +1845,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/dubbo</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Dubbo is a high-performance, java based, open source RPC framework.</div>
@@ -2080,7 +2080,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2023, 16:14:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Feb 2023, 17:11:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
