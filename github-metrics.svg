@@ -1845,7 +1845,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/dubbo</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Dubbo is a high-performance, java based, open source RPC framework.</div>
@@ -1939,7 +1939,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>techa03/goodsKill</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐯基于SpringCloud 2021.x +Dubbo 3.x构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件</div>
@@ -2080,7 +2080,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2023, 19:10:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Feb 2023, 20:20:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
