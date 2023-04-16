@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1791" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1774" class="">
     <defs>
         <style/>
     </defs>
@@ -219,13 +219,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.6392821580206" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="181.6392821580206" y="0" width="149.63133775263694" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="331.27061991065756" y="0" width="64.3910784611415" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="395.6616983717991" y="0" width="58.34117449659326" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.0028728683924" y="0" width="4.3776789514655565" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.38055181985794" y="0" width="1.5819058969163724" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="459.9624577167743" y="0" width="0.03754228322575707" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.09472459084893" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="180.09472459084893" y="0" width="152.270537050232" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="332.36526164108096" y="0" width="63.84353320378369" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="396.2087948448646" y="0" width="57.84507419562421" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.05386904048885" y="0" width="4.3404536493678965" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.3943226898567" y="0" width="1.5684542652285192" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="459.96277695508525" y="0" width="0.037223044914768806" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2152,6 +2152,54 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">kairui1108/Lottery</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8103a62</div>
+                                        <div class="message">feat: 应用层编排抽奖过程</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dc20a1</div>
+                                        <div class="message">feat: 声明式事务 领取活动领域</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#247585a</div>
+                                        <div class="message">feat: 实现分库分表</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36d565c</div>
+                                        <div class="message">feat: 添加id生成器</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">230416_trk_ApplicationActivityProcess</span>
+                                        in
+                                        <span class="repo">kairui1108/Lottery</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">kairui1108/EhuixueAutomatic</span>
                                     </div>
@@ -2227,60 +2275,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kairui1108/Lottery</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2207a6d</div>
-                                        <div class="message">fix: 修复DefaultRateRandomDrawAlgorithm只能抽中一等奖</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">kairui1108/Lottery</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b3425db</div>
-                                        <div class="message">feat: 添加抽奖模块测试</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6976f65</div>
-                                        <div class="message">feat: 抽奖策略领域模块开发</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28c2308</div>
-                                        <div class="message">feat: 数据库库表设计</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2023, 16:13:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Apr 2023, 17:11:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
