@@ -222,14 +222,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 103kb of code in 96 edited files across 84 commits over last 14 days</small>
+                <small>estimation from 96.8kb of code in 83 edited files across 82 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.5799171363133" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="355.5799171363133" y="0" width="104.42008286368667" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.28171510650657" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.28171510650657" y="0" width="37.718284893493475" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -243,7 +243,7 @@
                             <small>
                                 <div>822 lines</div>
                                 <div>30 kB</div>
-                                <div>77.3%</div>
+                                <div>91.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -254,9 +254,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>325 lines</div>
-                                <div>8.82 kB</div>
-                                <div>22.7%</div>
+                                <div>59 lines</div>
+                                <div>2.68 kB</div>
+                                <div>8.2%</div>
                             </small>
                         </div>
                     </section>
@@ -1952,7 +1952,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JosephZhu1983/java-common-mistakes</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">极客时间专栏《Java业务开发常见错误100例》源码</div>
@@ -2248,7 +2248,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2023, 19:09:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 May 2023, 20:19:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
