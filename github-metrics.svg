@@ -281,14 +281,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 61.4kb of code in 99 edited files across 75 commits over last 14 days</small>
+                <small>estimation from 46.8kb of code in 84 edited files across 69 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.0962301587302" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="421.0962301587302" y="0" width="38.90376984126984" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.3253407784529" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.3253407784529" y="0" width="56.67465922154705" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -300,8 +300,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>40.6 kB</div>
-                                <div>91.54%</div>
+                                <div>26.6 kB</div>
+                                <div>87.68%</div>
                             </small>
                         </div>
                     </section>
@@ -315,7 +315,7 @@
                             </div>
                             <small>
                                 <div>3.75 kB</div>
-                                <div>8.46%</div>
+                                <div>12.32%</div>
                             </small>
                         </div>
                     </section>
@@ -2023,7 +2023,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>valarchie/AgileBoot-Back-End</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥   基于Ruoyi做了大量重构优化的全栈基础快速开发脚手架。🔥  采用Springboot + Vue 3 + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！ 欢迎小伙伴PR，一起构建一个规范的全栈项目~😆</div>
@@ -2182,7 +2182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xtekky/gpt4free</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">decentralising the Ai Industry, just some language model api's...</div>
@@ -2320,7 +2320,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2023, 21:09:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 22:07:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
