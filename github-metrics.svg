@@ -2165,7 +2165,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ctripcorp/x-pipe</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统。基于Redis的Master-Slave复制协议，实现低延时、高可用的Redis多数据中心、跨公网数据复制，并且提供一键机房切换，复制监控、异常报警等功能。开源版本和携程内部生产环境版本一致。</div>
@@ -2357,7 +2357,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2023, 20:14:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Jun 2023, 21:10:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
