@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1667" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1559" class="">
     <defs>
         <style/>
     </defs>
@@ -283,7 +283,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 14 days</small>
+                  over last 10 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -2056,7 +2056,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dttung2905/kafka-in-production</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2335,40 +2335,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">kairui1108/AgileBoot-Back-End</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a379975</div>
-                                        <div class="message">doc: 添加内置redis关于macos启动失败的说明</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8976a86</div>
-                                        <div class="message">refactor: 把前端端口从80改成3000，避免有些用户启用不了80端口</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdef3ed</div>
-                                        <div class="message">refactor: 修改mysql启动步骤</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2023, 12:10:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Jul 2023, 13:08:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
