@@ -2132,7 +2132,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eugeny/tabby</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal for a more modern age</div>
@@ -2451,7 +2451,7 @@ refactor: optimize BasicEnumUtil</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2023, 19:07:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 20:16:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
