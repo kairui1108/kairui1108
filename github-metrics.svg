@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1944" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1844" class="">
     <defs>
         <style/>
     </defs>
@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.74633488861207" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="440.74633488861207" y="0" width="19.02247399110255" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.7688088797146" y="0" width="0.1953593555585848" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.9641682352731" y="0" width="0.03583176472684287" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.8164559391956" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="440.8164559391956" y="0" width="18.95319492899997" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.7696508681955" y="0" width="0.19464786488011715" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.9642987330757" y="0" width="0.035701266924353194" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,8 +234,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>2.31 MB</div>
-                                <div>95.81%</div>
+                                <div>2.32 MB</div>
+                                <div>95.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -261,7 +261,7 @@
                             </div>
                             <small>
                                 <div>99.8 kB</div>
-                                <div>4.14%</div>
+                                <div>4.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -281,15 +281,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 254kb of code in 291 edited files across 37 commits over last 6 days</small>
+                <small>estimation from 266kb of code in 309 edited files across 39 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.8634992501853" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.8634992501853" y="0" width="0.7664772498750309" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.62997650006037" y="0" width="0.3700234999396701" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.933744454447" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.933744454447" y="0" width="0.7191025772334496" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.6528470316804" y="0" width="0.34715296831959636" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -301,8 +301,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>173 kB</div>
-                                <div>99.75%</div>
+                                <div>185 kB</div>
+                                <div>99.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -328,7 +328,7 @@
                             </div>
                             <small>
                                 <div>290 bytes</div>
-                                <div>0.17%</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                     </section>
@@ -2191,7 +2191,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        689
+                                        692
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2340,6 +2340,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">kairui1108/api-gateway</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#65dd635</div>
+                                        <div class="message">feat: redis发布订阅驱动网关配置接口映射</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">kairui1108/AgileBoot-Back-End</span>
                                     </div>
@@ -2442,52 +2462,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">kairui1108/api-gateway</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3305f32</div>
-                                        <div class="message">feat: 网关映射聚合信息查询实现</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34f9f1a</div>
-                                        <div class="message">feat: 实现starter自动向注册中心注册网关算力</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c5af43</div>
-                                        <div class="message">feat: 实现接口注册</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#347c7ff</div>
-                                        <div class="message">feat: 网关算力节点领域服务实现</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#071cb8a</div>
-                                        <div class="message">feat: 库表设计</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bba5c0</div>
-                                        <div class="message">feat: 网关注册中心初始搭建</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2023, 22:07:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jul 2023, 23:08:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
