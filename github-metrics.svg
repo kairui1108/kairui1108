@@ -281,15 +281,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 266kb of code in 309 edited files across 39 commits over last 14 days</small>
+                <small>estimation from 258kb of code in 297 edited files across 37 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.933744454447" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.933744454447" y="0" width="0.7191025772334496" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.6528470316804" y="0" width="0.34715296831959636" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.88594134576937" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.88594134576937" y="0" width="0.751341883085796" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.63728322885515" y="0" width="0.36271677114486706" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -301,8 +301,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>185 kB</div>
-                                <div>99.77%</div>
+                                <div>177 kB</div>
+                                <div>99.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2435,7 +2435,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2023, 22:08:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Jul 2023, 23:08:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
