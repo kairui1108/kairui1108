@@ -2141,7 +2141,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alibaba/arthas</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</div>
@@ -2247,7 +2247,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dttung2905/kafka-in-production</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jul 06 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2442,7 +2442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2023, 14:09:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Aug 2023, 15:06:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
