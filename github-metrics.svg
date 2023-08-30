@@ -2189,7 +2189,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lionsoul2014/ip2region</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</div>
@@ -2242,7 +2242,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quarkusio/quarkus</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quarkus: Supersonic Subatomic Java.</div>
@@ -2295,7 +2295,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alibaba/canal</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">阿里巴巴 MySQL binlog 增量订阅&amp;消费组件</div>
@@ -2348,7 +2348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alibaba/higress</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-generation Cloud Native Gateway | 下一代云原生网关</div>
@@ -2479,7 +2479,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2023, 11:08:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Aug 2023, 12:10:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
