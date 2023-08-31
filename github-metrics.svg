@@ -2301,7 +2301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alibaba/canal</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">阿里巴巴 MySQL binlog 增量订阅&amp;消费组件</div>
@@ -2354,7 +2354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alibaba/higress</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-generation Cloud Native Gateway | 下一代云原生网关</div>
@@ -2515,7 +2515,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2023, 22:08:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Aug 2023, 23:08:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
