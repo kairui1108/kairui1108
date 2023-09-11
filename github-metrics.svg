@@ -281,15 +281,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 199kb of code in 203 edited files across 39 commits over last 14 days</small>
+                <small>estimation from 199kb of code in 202 edited files across 37 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.1738119808835" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.1738119808835" y="0" width="8.899598232624312" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="457.0734102135078" y="0" width="2.9265897864922" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.1599325923845" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.1599325923845" y="0" width="8.910042932231272" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="457.0699755246158" y="0" width="2.9300244753841835" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -301,7 +301,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>97.2 kB</div>
+                                <div>97.1 kB</div>
                                 <div>97.43%</div>
                             </small>
                         </div>
@@ -328,7 +328,7 @@
                             </div>
                             <small>
                                 <div>1.93 kB</div>
-                                <div>1.93%</div>
+                                <div>1.94%</div>
                             </small>
                         </div>
                     </section>
@@ -2639,7 +2639,7 @@ fix: 补充缺少的javadoc注释</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2023, 02:10:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Sept 2023, 03:06:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
