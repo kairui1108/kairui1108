@@ -52,12 +52,6 @@
 
 ---
 
-## 📈 Activity Metrics
-
-![Metrics](/github-metrics.svg)
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
