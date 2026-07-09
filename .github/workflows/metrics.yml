@@ -15,7 +15,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kairui1108
           template: terminal
-          theme: dark
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_activity: yes
@@ -28,7 +27,6 @@ jobs:
           plugin_calendar_limit: 2
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_isocalendar_isometric: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, js, makefile, qmake, lex, cmake, gnuplot, scala, ejs, javascript, powershell
           plugin_languages_details: lines, bytes-size, percentage
@@ -36,14 +34,6 @@ jobs:
           plugin_languages_limit: 5
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_commits: yes
-          plugin_commits_ultimate: month
-          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_isometric: yes
-          plugin_notable: yes
-          plugin_notable_limit: 5
           plugin_lines: yes
-          plugin_peers: yes
-          plugin_peers_limit: 3
