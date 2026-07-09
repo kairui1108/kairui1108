@@ -15,7 +15,7 @@
 
 - 🔭 I'm currently working on **full-stack development**
 - 🌱 I'm currently learning **new technologies and frameworks**
-- 💬 Ask me about **Python, TypeScript, Java**
+- 💬 Ask me about **Python, Java**
 - 📫 How to reach me: **GitHub Issues**
 - ⚡ Fun fact: **I love coding and building cool projects!**
 
